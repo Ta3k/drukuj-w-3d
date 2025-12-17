@@ -1,10 +1,12 @@
 ﻿---
 layout: post
 title: "dekoracje swiateczne drukowane w 3d"
-date: 2025-12-17 11:17:29
+description: ""
+date: 2025-12-17
 categories: []
 tags: []
 ---
+
 
 # Dekoracje świąteczne drukowane w 3D
 
